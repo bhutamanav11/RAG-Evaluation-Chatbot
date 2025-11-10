@@ -1,0 +1,19 @@
+Metric,Comparison,t-statistic,p-value,Cohen's d,Significant
+Faithfulness Score,gemini-2.5-pro vs gemini-pro,-3.486,0.0009,-0.821,Yes*
+Faithfulness Score,gemini-2.5-pro vs gpt-3.5-turbo,0.113,0.9102,0.033,No
+Faithfulness Score,gemini-2.5-pro vs claude-3-haiku-20240307,-1.217,0.2301,-0.591,No
+Faithfulness Score,gemini-pro vs gpt-3.5-turbo,1.717,0.0943,0.558,No
+Faithfulness Score,gemini-pro vs claude-3-haiku-20240307,0.577,0.5678,0.300,No
+Faithfulness Score,gpt-3.5-turbo vs claude-3-haiku-20240307,-0.625,0.5447,-0.387,No
+Answer Relevancy,gemini-2.5-pro vs gemini-pro,0.490,0.6257,0.119,No
+Answer Relevancy,gemini-2.5-pro vs gpt-3.5-turbo,1.915,0.0623,0.626,No
+Answer Relevancy,gemini-2.5-pro vs claude-3-haiku-20240307,0.484,0.6309,0.214,No
+Answer Relevancy,gemini-pro vs gpt-3.5-turbo,1.344,0.1872,0.489,No
+Answer Relevancy,gemini-pro vs claude-3-haiku-20240307,0.168,0.8673,0.083,No
+Answer Relevancy,gpt-3.5-turbo vs claude-3-haiku-20240307,-0.719,0.4870,-0.426,No
+Context Degradation Score,gemini-2.5-pro vs gemini-pro,-0.535,0.5945,-0.130,No
+Context Degradation Score,gemini-2.5-pro vs gpt-3.5-turbo,0.740,0.4628,0.282,No
+Context Degradation Score,gemini-2.5-pro vs claude-3-haiku-20240307,2.619,0.0120,0.960,Yes*
+Context Degradation Score,gemini-pro vs gpt-3.5-turbo,1.239,0.2230,0.443,No
+Context Degradation Score,gemini-pro vs claude-3-haiku-20240307,3.279,0.0024,1.103,Yes*
+Context Degradation Score,gpt-3.5-turbo vs claude-3-haiku-20240307,1.402,0.1885,0.747,No

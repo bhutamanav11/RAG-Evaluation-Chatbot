@@ -1,0 +1,21 @@
+{
+  "session_id": "a6870120-197f-4977-a00e-4714e6762955",
+  "export_timestamp": "2025-10-23T23:56:59.273523",
+  "total_turns": 1,
+  "conversations": [
+    {
+      "turn_number": 1,
+      "model": "gemini-2.5-pro",
+      "user_message": "Headquarters of all three",
+      "assistant_response": "Based on the provided context, the report only contains information for one company, Amazon.com, Inc.\n\nThe headquarters for **Amazon.com, Inc.** is in **Seattle, Washington, USA**.",
+      "evaluation_scores": {
+        "faithfulness": 0.5550270676612854,
+        "answer_relevancy": 0.45380446314811707,
+        "context_degradation": 1.0,
+        "chunk_efficiency": 0.055502700805664065,
+        "failure_mode": "none"
+      },
+      "response_time": 5.816236257553101
+    }
+  ]
+}

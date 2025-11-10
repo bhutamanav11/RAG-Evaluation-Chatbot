@@ -1,0 +1,10 @@
+Metric,Comparison,Mean Diff,t-statistic,p-value,Cohen's d,Effect Size,Significant
+Faithfulness Score,gpt-3.5-turbo vs claude-3-haiku-20240307,-0.009,-0.217,0.8308,-0.097,negligible,No
+Faithfulness Score,gpt-3.5-turbo vs gemini-pro,0.004,0.073,0.9423,0.033,negligible,No
+Faithfulness Score,claude-3-haiku-20240307 vs gemini-pro,0.013,0.298,0.7693,0.133,negligible,No
+Answer Relevancy,gpt-3.5-turbo vs claude-3-haiku-20240307,-0.072,-3.657,0.0018,-1.635,large,Yes**
+Answer Relevancy,gpt-3.5-turbo vs gemini-pro,-0.010,-0.375,0.7122,-0.168,negligible,No
+Answer Relevancy,claude-3-haiku-20240307 vs gemini-pro,0.062,2.800,0.0118,1.252,large,Yes*
+Context Degradation Score,gpt-3.5-turbo vs claude-3-haiku-20240307,-0.055,-0.587,0.5644,-0.263,small,No
+Context Degradation Score,gpt-3.5-turbo vs gemini-pro,-0.036,-0.371,0.7151,-0.166,negligible,No
+Context Degradation Score,claude-3-haiku-20240307 vs gemini-pro,0.019,0.220,0.8285,0.098,negligible,No

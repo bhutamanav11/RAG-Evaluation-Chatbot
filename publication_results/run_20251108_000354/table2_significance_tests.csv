@@ -1,0 +1,4 @@
+Metric,Comparison,Mean Diff,t-statistic,p-value,Cohen's d,Effect Size,Significant
+Faithfulness Score,claude-3-haiku-20240307 vs gpt-3.5-turbo,-0.008,-0.171,0.8665,-0.076,negligible,No
+Answer Relevancy,claude-3-haiku-20240307 vs gpt-3.5-turbo,0.024,0.657,0.5192,0.294,small,No
+Context Degradation Score,claude-3-haiku-20240307 vs gpt-3.5-turbo,0.055,0.587,0.5644,0.263,small,No

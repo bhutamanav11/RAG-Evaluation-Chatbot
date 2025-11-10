@@ -1,0 +1,4 @@
+Model,N,Faithfulness,Faithfulness_mean,Faithfulness_std,Answer Relevancy,Answer Relevancy_mean,Answer Relevancy_std,Context Precision,Context Precision_mean,Context Precision_std,Context Recall,Context Recall_mean,Context Recall_std,Chunk Efficiency,Chunk Efficiency_mean,Chunk Efficiency_std,Context Degradation,Context Degradation_mean,Context Degradation_std,Avg Response Time (s),Answer Rate (%)
+gemini-pro,2,1.000 ± 0.000,1.0,0.0,0.650 ± 0.208,0.6500544846057892,0.15009948506876933,0.500 ± 0.980,0.5,0.7071067811865476,1.000 ± 0.000,1.0,0.0,0.413 ± 0.417,0.4130015134811401,0.30122962917102397,1.000 ± 0.000,1.0,0.0,17.79 ± 1.02,100.0%
+claude-3-haiku-20240307,1,1.000 ± nan,1.0,,0.774 ± nan,0.7741504549980163,,0.000 ± nan,0.0,,1.000 ± nan,1.0,,0.200 ± nan,0.2,,1.000 ± nan,1.0,,2.51 ± nan,100.0%
+gpt-3.5-turbo,1,1.000 ± nan,1.0,,0.784 ± nan,0.7835891306400299,,0.000 ± nan,0.0,,0.800 ± nan,0.8,,0.200 ± nan,0.2,,1.000 ± nan,1.0,,2.56 ± nan,100.0%

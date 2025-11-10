@@ -1,0 +1,4 @@
+Model,Total Responses,Avg Faithfulness,Avg Relevancy,Avg Response Time,Sessions
+gpt-3.5-turbo,10,0.923,0.786,3.712,1
+claude-3-haiku-20240307,10,0.932,0.859,2.601,1
+gemini-pro,10,0.919,0.796,28.418,1

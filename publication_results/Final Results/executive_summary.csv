@@ -1,0 +1,4 @@
+Model,Total Responses,Avg Faithfulness,Avg Relevancy,Avg Precision,Avg Response Time,Sessions
+Claude Haiku,10,0.904,0.833,0.807,2.953,1
+Gemini Pro,10,0.846,0.785,0.807,26.415,1
+GPT-3.5,10,0.89,0.788,0.807,3.075,1

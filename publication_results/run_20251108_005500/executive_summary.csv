@@ -1,0 +1,3 @@
+Model,Total Responses,Avg Faithfulness,Avg Relevancy,Avg Precision,Avg Response Time,Sessions
+Claude Haiku,13,0.789,0.68,0.813,0.774,1
+GPT-3.5,10,0.934,0.78,0.807,2.762,1

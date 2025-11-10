@@ -1,0 +1,98 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# API Keys and Secrets
+*_key.txt
+*_secret.txt
+secrets/
+credentials/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+rag_evaluation.db
+
+# Vector database
+chroma_db/
+.chroma/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Uploaded files
+uploads/
+temp/
+tmp/
+
+# Logs
+*.log
+logs/
+uvicorn.log
+
+# Research data
+data/
+datasets/
+raw_data/
+
+# Generated reports
+research_report.json
+*.pdf
+*.png
+*.jpg
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Streamlit
+.streamlit/secrets.toml

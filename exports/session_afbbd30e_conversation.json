@@ -1,0 +1,21 @@
+{
+  "session_id": "afbbd30e-c2f4-4da7-8194-9328251900a2",
+  "export_timestamp": "2025-10-22T13:17:12.199712",
+  "total_turns": 1,
+  "conversations": [
+    {
+      "turn_number": 1,
+      "model": "gemini-2.5-pro",
+      "user_message": "where is the headquarters for all 3 companies",
+      "assistant_response": "Based on the provided context, the headquarters for Amazon.com, Inc. is in Seattle, Washington, USA.\n\nThe document only contains information about Amazon.com, Inc. and does not mention any other companies.",
+      "evaluation_scores": {
+        "faithfulness": 0.6722320318222046,
+        "answer_relevancy": 0.5685588121414185,
+        "context_degradation": 1.0,
+        "chunk_efficiency": 0.06722317934036255,
+        "failure_mode": "none"
+      },
+      "response_time": 7.425448179244995
+    }
+  ]
+}
