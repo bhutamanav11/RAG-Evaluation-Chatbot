@@ -160,7 +160,7 @@ This enables proper assessment of epistemic humility in RAG systems.
 
 ## 👥 Authors
 
-Research project by Jash Ladhani
+Research project by Jash Ladhani & Manav Bhuta
 
 ## 🙏 Acknowledgments
 
