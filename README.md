@@ -158,11 +158,11 @@ Full 8-page IEEE conference paper available with:
 
 This enables proper assessment of epistemic humility in RAG systems.
 
-## 👥 Authors
+## Authors
 
 Research project by Jash Ladhani & Manav Bhuta
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Stanford HAI for AI Index Report 2025
 - McKinsey & Company for State of AI Report
